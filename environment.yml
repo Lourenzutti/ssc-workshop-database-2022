@@ -1,4 +1,4 @@
-name: dsci513env
+name: ssc2022
 channels:
   - conda-forge
   - defaults
@@ -9,5 +9,3 @@ dependencies:
   - ipython-sql
   - pgspecial
   - pandas>=1.3
-  - matplotlib
-  
